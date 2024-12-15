@@ -1,0 +1,6 @@
+C:\Users\hmb\Documents\ProjetosPitang\ONS\Trilha de Testes\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.My_Project.Resources.resources
+C:\Users\hmb\Documents\ProjetosPitang\ONS\Trilha de Testes\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.GenerateResource.cache
+C:\Users\hmb\Documents\ProjetosPitang\ONS\Trilha de Testes\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmb\Documents\ProjetosPitang\ONS\Trilha de Testes\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\hmb\Documents\ProjetosPitang\ONS\Trilha de Testes\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+C:\Users\hmb\Documents\ProjetosPitang\ONS\Trilha de Testes\Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
